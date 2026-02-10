@@ -1,5 +1,7 @@
 # IBM Cloud Resource Group module
 
+:warning: This module is no longer maintained. Please use [terraform-ibm-resource-group](https://github.com/terraform-ibm-modules/terraform-ibm-resource-group) for configuring IBM Cloud resource groups.
+
 Terraform module to create a resource groups in an IBM Cloud account.  
 
 Migrated from https://github.com/cloud-native-toolkit/terraform-ibm-resource-group
